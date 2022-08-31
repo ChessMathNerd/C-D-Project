@@ -1,1 +1,1 @@
-# C-D-Project
+#Charter and Go. Senior Project
